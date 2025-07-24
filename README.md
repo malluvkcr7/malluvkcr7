@@ -1,4 +1,4 @@
-![Header](https://github.com/malluvkcr7/malluvkcr7/blob/main/github-header-image.png)
+![Header](github-header-image.png)
 
 <h3 align="center">Hi there! I'm Mallikarjun Chakoti 👋</h3>
 <h4 align="center">Pursuing Integrated M.Tech in Computer Science @ IIIT Bangalore (2022–2027)</h4>
@@ -46,9 +46,17 @@
 
 ---
 
-<p align="center">📬 Connect with me:</p>
+<h3 align="left">📊 GitHub Language Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malluvkcr7&layout=compact&langs_count=8&theme=default" alt="Top Languages Used" />
+</p>
+
+---
+
+<h3 align="center">📬 Connect with me:</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/mallikarjun-chakoti-56334428a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mallikarjun-chakoti-56334428a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mallikarjun.chakoti@iiitb.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
