@@ -30,25 +30,25 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+<h3 align="left">📌 Featured Projects:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malluvkcr7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+- 🚀 **EmotAI Support** – A GenAI-powered emotional wellness assistant using Gemini API + semantic retrieval  
+  <sub>Tech: React, Next.js, PostgreSQL, RAG, NLP</sub>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=malluvkcr7&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+- 🌍 **ImpactLoom** – AI-based CSR impact measurement platform aligned with UN SDGs  
+  <sub>Tech: React, PostgreSQL, Gemini API, Node.js</sub>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malluvkcr7" alt="GitHub Streak" />
-</p>
+- 🌐 **Egypt Network Analyzer** – Clustering cellular coverage gaps using spatial-temporal DBSCAN  
+  <sub>Tech: Python, GeoPandas, GWR</sub>
+
+- 🔄 **NoSQL Data Sync System** – Real-time sync between PostgreSQL, MongoDB, and Apache Pig  
+  <sub>Tech: Python, DBMS, Conflict Resolution</sub>
 
 ---
 
 <p align="center">📬 Connect with me:</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mallikarjun-chakoti"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="linkedin.com/in/mallikarjun-chakoti-56334428a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mallikarjun.chakoti@iiitb.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
