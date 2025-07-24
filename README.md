@@ -1,4 +1,5 @@
-![Header](github-header-image.png)
+![Header](github-header-image-v2.png)
+
 
 <h3 align="center">Hi there! I'm Mallikarjun Chakoti 👋</h3>
 <h4 align="center">Pursuing Integrated M.Tech in Computer Science @ IIIT Bangalore (2022–2027)</h4>
